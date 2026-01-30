@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+.env
+
+data/uploads/*
+data/faiss_index/*
+
+*.pyc
